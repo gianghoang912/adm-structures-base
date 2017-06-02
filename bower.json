@@ -22,8 +22,5 @@
 	"material",
 	"angular-dasboard-material",
 	"structures"
-  ],
-  "dependencies": {
-    "angular-dashboard-material": ">=1.0"
-  }
+  ]
 }
