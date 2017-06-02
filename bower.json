@@ -24,6 +24,6 @@
 	"structures"
   ],
   "dependencies": {
-    "angular-dashboard-material": "^1.0"
+    "angular-dashboard-material": ">=1.0"
   }
 }
