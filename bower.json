@@ -20,6 +20,6 @@
     "adm-structures"
   ],
   "dependencies": {
-    "angular-dashboard-material": "^0.7.0"
+    "angular-dashboard-material": "*"
   }
 }
