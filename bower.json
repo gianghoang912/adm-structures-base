@@ -1,8 +1,8 @@
 {
   "name": "adm-structures-base",
-  "version": "1.0",
+  "version": "0.1.1",
   "main": [
-    "dist/adm-structures-base.js"
+    "dist/adf-structures-base.js"
   ],
   "ignore": [
     "bower.json",
@@ -17,10 +17,9 @@
   "keywords": [
     "dashboard",
     "adm",
-    "adm-structures",
-	"angular",
-	"material",
-	"angular-dasboard-material",
-	"structures"
-  ]
+    "adm-structures"
+  ],
+  "dependencies": {
+    "angular-dashboard-material": "^0.7.0"
+  }
 }
